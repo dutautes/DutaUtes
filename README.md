@@ -11,6 +11,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/penuliscode">
+  <img height="180em" src"https://nirzak-streak-stats.vercel.app/?user=dutautes&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DutaUtes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DutaUtes&layout=compact&theme=algolia"/>
 </a>
