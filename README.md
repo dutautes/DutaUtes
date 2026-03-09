@@ -6,7 +6,7 @@ Saya seorang **Pelajar** di [SMK Wikrama Bogor](https://www.linkedin.com/school/
 
 Saya sebagai siswa jurusam Pengembangan Perangkat Lunak dan Gim (PPLG).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/duta-suksesi-fathurrahman-7a61962b5/)ku ya.  
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dutasuksesif) ku ya.  
 
 ### Github Statistic
 <p align="left">
